@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\bin\Debug\net6.0\Projeto1GFT.exe
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\bin\Debug\net6.0\Projeto1GFT.deps.json
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\bin\Debug\net6.0\Projeto1GFT.runtimeconfig.json
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\bin\Debug\net6.0\Projeto1GFT.dll
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\bin\Debug\net6.0\Projeto1GFT.pdb
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\Projeto1GFT.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\Projeto1GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\Projeto1GFT.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\Projeto1GFT.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\Projeto1GFT.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\Projeto1GFT.dll
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\refint\Projeto1GFT.dll
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\Projeto1GFT.pdb
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\Projeto1GFT.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Documents\Projeto1GFT\obj\Debug\net6.0\ref\Projeto1GFT.dll

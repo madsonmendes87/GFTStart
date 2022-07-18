@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto1GFT/1.0.0": {
+        "runtime": {
+          "Projeto1GFT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto1GFT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
